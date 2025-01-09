@@ -1,0 +1,85 @@
+
+on-1   off-0   --------------> Ascii/unicode 
+
+computer lang  ---------->java
+
+s.l :- designing of websites
+
+p.l :- developing of softwares
+
+									computer lang
+									
+						scripting lang			programming lang
+						
+					html,css,js.....			pop			oop			
+								
+										basic,python..		java,python,.net....
+										
+										
+security :- encapsulation,abstraction
+
+performance :- inheritance,polymorphism
+
+
+java:- 
+
+(1)platform independency
+
+(2)Garbage collector
+
+
+sunmicrosystem :- ---------------------------oracle
+
+greentalk(.gt)------------------oak-----------java(.java)
+
+jdk 1.0---------------------------------------jdk 23
+
+to check:-  java --version
+
+			jse/j2se  :- standalone(no client-server)-corejava
+			
+			jee/j2ee  :-distributed app(client-server)-CoreJava + Adv java
+			
+			jme/j2me  :- mobile app'n -micro corejava
+			
+			
+			
+			
+								Frontend:- 
+								=========
+								
+								
+	html:- Hyper Text Markup lang
+	
+	.html/.htm
+	
+	
+	<tag>
+	(1)container/pair tag:- <tag>content</tag>
+	
+	(2)single/empty tag:-<tag> or </tag> or <tag/>
+	
+	
+	
+	
+	<h1 class="value"> statements </h1>   --------------->elements
+	
+	
+	websites :- collection of webpages 
+	
+	
+					(1)static webpages:- changes will not happends regulary
+					
+					(2)dynamic webpages:- changes will happens regulary
+					
+					(3)server webpages:- data from static and dynamic webpages will get stored here
+					
+					
+		Lists in html :-  <li></li>
+
+			(1)unordered list :- <ul></ul>   ----------->bulleets
+			
+			(2)ordered list :- <ol></ol>     ------------>Numberings
+					
+					
+		<frames>
