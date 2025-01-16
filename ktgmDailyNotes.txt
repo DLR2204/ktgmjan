@@ -83,3 +83,55 @@ to check:-  java --version
 					
 					
 		<frames>
+		
+		
+							CSS:- Cascading style sheet
+							====
+							
+		(1)Inline styling :- style att in the opening tag
+		
+		(2)Internal Styling :- <style> tag inside the <head>
+		
+		(3)External Styling :- attaching .css file to the html file
+		
+		
+		colors :- 
+		
+		
+		(1)color name
+		
+		(2)Hexadecimal (#ffffff)
+		
+		(3)rgb function :- rgb(r,g,b)
+		
+		(4)rgn function with alpha :-rgb(r,g,b,a(0-1))
+		
+		(5)hsl function :- hsl(h,s,l)
+		
+		(6)hsl function with apha :- hsl(h,s,l,a)
+		
+		
+		selector :- 
+		
+		(1)tag name
+		
+		(2)id name (#id name)
+		
+		(3)class name(.class name)
+		
+		(4)universal(*)
+		
+										javascript:-
+										===========
+										
+			(1)Dynamic webpages
+			
+			(2)To change the html content
+			
+			(3)To change the html attributes
+			
+			(4)To change the css
+			
+			(5)To hide the data
+			
+		
