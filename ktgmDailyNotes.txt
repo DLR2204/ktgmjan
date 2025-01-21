@@ -134,4 +134,62 @@ to check:-  java --version
 			
 			(5)To hide the data
 			
+			
+			
+		(1)internal :- <script> tag inside the head/body tag
+		
+		(2)external :- attaching .js file to the .html doc
+		
+		
+		output functions in js :- 
+		
+		(1)innerHTML = based on the id of the tag it will display the data
+		
+		(2)document.write() = given text will be displayed in the webpage
+		
+		(3)alert.window() = given text will be displayed in the alert box
+		
+		(4)console.log() = given text will be displayed in the console window.
+		
+		
+		let/const/var  varname; declaration of a variable
+		
+		varnme= value ;intialization
+		
+		
+		function :- set of statements where altogether will performs the task
+		========
+		
+			function funcName(params...){
+			
+				//body
+				}
+		
+		FlowControl Statements :- 
+		------------------------
+		
+		(1)conditional statements :- if,switch
+		
+		(2)Loop statements:- while,for
+		
+		
+								Bootstrap:- 
+								=========
+								
+		(2)cdn(content delivery network)
+		
+		(3)downloading the bootstrap files
+								
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
 		
