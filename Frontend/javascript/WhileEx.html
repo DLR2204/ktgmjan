@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<script>
+    function loop(){
+
+        var i = 10;res =" "
+
+        while(i<20){
+
+            res=res+i+" ";    
+            i++;
+        }
+
+
+document.getElementById("res").innerHTML= res;
+
+console.log(res);
+    }
+
+
+</script>
+
+
+</head>
+<body>
+    <h1>Iterative statements -while loop</h1>
+
+    <h2 id="res"></h2>
+
+    <button type="button" onclick="loop()">check</button>
+</body>
+</html>
