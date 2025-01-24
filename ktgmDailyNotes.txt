@@ -176,9 +176,17 @@ to check:-  java --version
 								Bootstrap:- 
 								=========
 								
-		(2)cdn(content delivery network)
+		(1)cdn(content delivery network)
 		
-		(3)downloading the bootstrap files
+		(2)downloading the bootstrap files
+		
+		
+		GridSystem :- class="container"
+		
+		Navbar  :- class="nav/navbar"
+					<nav>
+					
+		Badge :- class="Badge"
 								
 		
 		
