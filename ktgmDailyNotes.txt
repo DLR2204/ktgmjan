@@ -187,12 +187,21 @@ to check:-  java --version
 					<nav>
 					
 		Badge :- class="Badge"
+		
+		card :- class="card"
 								
+		input :- class="form-control"
+		check/radio:- class="form-check-input"
+		select :- class="form-select"
 		
+									React (JS lib)-facebook
+									==============
+									
+		.js
 		
+		* output in react is from "App.js";
 		
-		
-		
+		component(CBA):-
 		
 		
 		
