@@ -1,0 +1,15 @@
+.movie-card{
+
+    width: 250px;
+    height: 430px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 9px 2px lightgray;
+   margin:10px
+
+}
+
+img{
+    width: max-width;
+    height: 85%;
+    border-radius: 10px;
+}
