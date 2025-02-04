@@ -1,0 +1,9 @@
+.parent{
+    background-color: aquamarine;
+    border:salmon solid;
+}
+
+.child{
+    background-color: lightgray;
+    border:cadetblue solid;
+}
